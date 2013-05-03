@@ -3,7 +3,8 @@ timeline-js-glbt-history-in-RI
 
 A Timeline.js based timeline of GLBT history in RI.  
 
-This is based on Balance Media's Timeline.js, created in partnership with John Keefe of WNYC. 
+This is based on Balance Media's Timeline.js, created in partnership with John Keefe of WNYC. Here's the repository: 
+https://github.com/balancemedia/Timeline
 
 I wanted to try out Timeline.js, and gay marriage was passed in Rhode Island today.  I noticed that the Providence Journal
 published a timeline of GLBT history, but it was text only (http://news.providencejournal.com/breaking-news/2013/05/a-timeline-of-gay-and-lesbian-history-in-rhode-island-and-nationally.html)
